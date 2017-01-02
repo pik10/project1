@@ -1,2 +1,2 @@
 # project1
-This is a proctice project for the ios course.
+This is a practice project for the ios course.
